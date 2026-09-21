@@ -1,0 +1,6 @@
+# Core system has zero required third-party dependencies (retrieval,
+# order lookup, safety rules, and the CLI are all standard library).
+#
+# Optional: only needed if you set ANTHROPIC_API_KEY to get LLM-phrased
+# responses instead of the deterministic template responses.
+anthropic>=0.34.0
