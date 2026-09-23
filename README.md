@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/49f69542-d49b-4d96-b911-406fbb602100
+
 # Aster & Row Support Agent
 
 A reliability-first customer-support agent for the fictional retailer Aster & Row.
@@ -396,7 +399,8 @@ python -m app.cli
 python evaluation/run_eval.py
 ```
 
-`![demo](docs/demo.mp4)`
+https://github.com/user-attachments/assets/49f69542-d49b-4d96-b911-406fbb602100
+
 
 ## Repository contents
 
